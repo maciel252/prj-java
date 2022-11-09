@@ -1,4 +1,4 @@
-package com.senai.prjjava;
+package com.senai.prjjava.entity;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
